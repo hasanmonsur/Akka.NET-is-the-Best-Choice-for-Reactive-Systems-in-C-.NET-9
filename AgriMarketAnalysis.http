@@ -1,0 +1,6 @@
+@AgriMarketAnalysis_HostAddress = http://localhost:5191
+
+GET {{AgriMarketAnalysis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
